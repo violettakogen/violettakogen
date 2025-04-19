@@ -40,7 +40,7 @@
 ### 📊 Диаграммы
 - [ER Diagram — "Library" (PDF)](portfolio/diagrams/library_er_diagram.pdf)
 
-### 🧠 Майнмапы
+### 🧠 Майндмапы
 - [Sending Media Under Spoiler — Mindmap (PDF)](portfolio/mindmaps/send_media_under_spoiler_mindmap.pdf)
   
 ---
